@@ -1,0 +1,24 @@
+body {
+  max-width: 600px;
+  margin: auto;
+  padding: 16px;
+  font-family: monospace;
+  font-size: 18px;
+}
+
+header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+.red {
+  color: red;
+  text-align: center;
+}

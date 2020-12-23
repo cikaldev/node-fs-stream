@@ -1,0 +1,17 @@
+{
+  "name": "node-fs-stream",
+  "version": "1.0.0",
+  "description": "Jajal Node Web pake FS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "web",
+    "fs",
+    "heroku"
+  ],
+  "author": "Ian Cikal",
+  "license": "MIT"
+}
